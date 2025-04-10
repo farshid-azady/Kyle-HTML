@@ -1633,8 +1633,8 @@ svg g [fill] {
 .page .logo {
 	position: absolute;
 	display: block;
-    width: 40px;
-    height: 42px;
+    width: 82px;
+    height: 51px;
 	top: 27px;
 	left: calc(50% - 5px);
 	background-image: url('../img/logo.png');
